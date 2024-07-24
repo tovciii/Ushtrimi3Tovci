@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+li{
+    display: inline;
+}
+
+.form-elements{
+    display: block;
+    text-align: center;
+}
+
+form{
+    background-color: peachpuff;
+    width: 300px;
+    margin:0 auto;
+    text-align: center;
+    border-radius: 30px;
+    padding: 20px;
+    margin-top: 100px;
+    border: 3px solid white;
+}
+
+.link-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+    text-decoration: none;
+}
+
+#input1{
+    margin: 0 auto;
+    display: block;
+}
+
+.user{
+    border-radius: 10px;
+}
+
+.password{
+    border-radius: 10px;
+}
+
+.submit{
+    border-radius: 20px;
+    height: 20px;
+    width: 80px;
+    padding-bottom: 20px;
+}
+
+.navbar{
+    margin-left: 1000px;
+    margin-bottom: 20px;
+}
+
+footer{
+    margin-top: 215px;
+    margin-left: 570px;
+}
